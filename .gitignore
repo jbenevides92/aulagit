@@ -1,0 +1,10 @@
+#ignore
+#impressora.lib
+#.DS_Store
+
+#ignore files
+#*.lib
+
+#ignore folders
+/library/
+.DS_Store
